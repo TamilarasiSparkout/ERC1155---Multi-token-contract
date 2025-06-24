@@ -1,0 +1,10 @@
+{
+  "name": "Shield of Aegis",
+  "description": "A legendary shield blessed by the gods for supreme protection.",
+  "image": "ipfs://bafkreidbmmxm6spbanmgd6w5k2isepj7epgmz72zwuz6yymqcr5shjuc2u",
+  "attributes": [
+    { "trait_type": "Defense Rating", "value": 90 },
+    { "trait_type": "Material", "value": "Divine Bronze" },
+    { "trait_type": "Weight", "value": "Medium" }
+  ]
+}
