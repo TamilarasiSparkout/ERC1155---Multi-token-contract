@@ -10,7 +10,7 @@ contract GameItems is ERC1155, Ownable {
     uint256 public constant SHIELD = 2;
     uint256 public constant POTION = 3;
 
-constructor(address initialOwner) ERC1155("ipfs://bafybeihyvlvejlszkswkpzw7vhgxjqkvxmavn567j55qnvwoj22wxls26q/{id}.json") Ownable(initialOwner) {
+constructor(address initialOwner) ERC1155("") Ownable(initialOwner) {
         // Mint some items to the deployer
         _mint(msg.sender, SWORD, 10, "");    // 10 SWORDs
         _mint(msg.sender, SHIELD, 5, "");    // 5 SHIELDs

@@ -1,0 +1,10 @@
+{
+  "name": "Healing Potion",
+  "description": "Restores 50 health points instantly. A must-have for every adventurer.",
+  "image": "ipfs://bafybeia6zh4rlgowrzltmq6nocmai7pty6xmshfpnfactvydyimvhx6iwm",
+  "attributes": [
+    { "trait_type": "Healing Power", "value": 50 },
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Effect", "value": "Instant" }
+  ]
+}

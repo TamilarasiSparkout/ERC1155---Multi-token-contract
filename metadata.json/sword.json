@@ -1,0 +1,10 @@
+{
+  "name": "Sword of Valor",
+  "description": "A sharp blade forged in the fires of Mount Ember.",
+  "image": "ipfs://bafkreiacftb2efpx4yit2d7oukiaprc5bg5fi2iizww6tlawrqwpnoztyy",
+  "attributes": [
+    { "trait_type": "Weapon Type", "value": "Sword" },
+    { "trait_type": "Attack Power", "value": 75 },
+    { "trait_type": "Durability", "value": 40 }
+  ]
+}
